@@ -2,7 +2,7 @@
     const LinksSocialMedia = {
       github: 'fhuffner91',
       instagram: 'felipe.huffner',
-      Linkedin: 'felipehuffner'
+      Linkedin: 'felipehuffner/'
     }
 
     function changeSocialMediaLinks() {
